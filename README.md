@@ -28,12 +28,13 @@ Your goal is to maximize **classification accuracy** on the **hidden private tes
 
 
 ### Public Files:
-- `data/train.csv` → Training + public test data (includes emotion labels)
-- `data/test.csv` → Private test features only (no labels)
+the dataset is hosted externally on **Google Drive**.
+
+### 🔗 **Download Link**
+➡️ [Click here to access the dataset](PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE)
 
 ### Private Files:
-- `test_labels.csv` → Hidden ground-truth labels used for automatic evaluation  
-  (This file is stored in a **private repository** and not accessible to participants.)
+- Test_data → Hidden ground-truth data used for automatic evaluation  
 
 ---
 
